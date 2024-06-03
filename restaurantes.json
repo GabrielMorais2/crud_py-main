@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nome": "Sakura Garden",
+        "cozinha": "Japonesa",
+        "horario": "18:00 as 22:00",
+        "avaliacao": "4.3"
+    },
+    {
+        "id": 2,
+        "nome": "La Bella Italia",
+        "cozinha": "Italiana",
+        "horario": "12:00 as 23:00",
+        "avaliacao": "4.7"
+    },
+    {
+        "id": 3,
+        "nome": "El Mariachi",
+        "cozinha": "Mexicana",
+        "horario": "11:00 as 21:00",
+        "avaliacao": "4.2"
+    },
+    {
+        "id": 4,
+        "nome": "Burger Haven",
+        "cozinha": "Americana",
+        "horario": "10:00 as 22:00",
+        "avaliacao": "4.0"
+    },
+    {
+        "id": 5,
+        "nome": "Curry Palace",
+        "cozinha": "Indiana",
+        "horario": "17:00 as 23:00",
+        "avaliacao": "4.6"
+    },
+    {
+        "id": 6,
+        "nome": "Le Gourmet",
+        "cozinha": "Francesa",
+        "horario": "18:00 as 23:00",
+        "avaliacao": "4.8"
+    },
+    {
+        "id": 7,
+        "nome": "Green Garden",
+        "cozinha": "Vegetariana",
+        "horario": "12:00 as 21:00",
+        "avaliacao": "4.1"
+    },
+    {
+        "id": 8,
+        "nome": "Taste of Thailand",
+        "cozinha": "Tailandesa",
+        "horario": "18:00 às 22:30",
+        "avaliacao": "4.4"
+    },
+    {
+        "id": 9,
+        "nome": "Mediterranean Delights",
+        "cozinha": "Mediterrânea",
+        "horario": "12:00 as 22:00",
+        "avaliacao": "4.5"
+    },
+    {
+        "id": 10,
+        "nome": "Sushi Master",
+        "cozinha": "Japonesa",
+        "horario": "18:00 as 22:00",
+        "avaliacao": "4.5"
+    }
+]
